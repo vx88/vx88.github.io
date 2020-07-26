@@ -2,15 +2,10 @@ $("#scroll-button").click(function () {
     $('html,body').animate({
         scrollTop: $("#floor").offset().top
     },
-        15000);
+        10000);
 });
 
 $(document).ready(function () {
-    $('.wp-about').waypoint(function () {
-        $('.wp-about').addClass('animate__animated animate__fadeInLeft');
-    }, {
-        offset: '25%'
-    })
     $('#pig-pic').waypoint({
         handler: function (direction) {
             if (direction == "up") {
@@ -63,6 +58,15 @@ $(document).ready(function () {
         handler: function (direction) {
             if (direction == "up") {
                 $('.sky-area').addClass('animate__animated animate__fadeOut')
+            }
+        }
+    }, {
+        offset: '100%'
+    })
+    $('.s3').waypoint({
+        handler: function (direction) {
+            if (direction == "up") {
+                $('.small-text').addClass('animate__animated animate__fadeOut')
             }
         }
     }, {

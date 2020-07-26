@@ -1,5 +1,5 @@
 :root {
-    --main-color: red
+    --main-color: #C83434
 }
 
 html {
@@ -14,10 +14,6 @@ p{
     font-size: 1vw;
 }
 
-.card {
-    background-color: (0,0,0,0);
-}
-
 /* _________________________Top Section________________________ */
 
 #banner {
@@ -25,11 +21,13 @@ p{
     position: relative;
     background-color: var(--main-color);
     height: 20vh;
+    justify-content: center;
 }
 
 #banner > h1 {
     font-size: 5rem;
-    color:white
+    color:white;
+    text-align: center;
 }
 
 #sky {
@@ -76,15 +74,16 @@ p{
 
 #floor {
     position: relative;
-    height: 5vh;
+    height: 15vh;
     width: 100%;
     background-color: black;
     z-index: 10;
+    text-align: center;
 }
 
 #floor > #derp {
     margin-top: -20vh;
-    margin-left: 80vw;
+    margin-left: 50vw;
     transform: scaleX(-1);
     height: 20vh
 }
@@ -92,7 +91,6 @@ p{
 .section {
     z-index: 5;
     margin-top: 5vh;
-    height: 60vh;
     width: 80%;
     right: 0;
 }
@@ -106,7 +104,7 @@ p{
 }
 
 .ladder {
-    margin-top: -105vh;
+    margin-top: -123vh;
     height: 100vh;
     visibility: hidden;
     margin-left: 85vw;
@@ -116,13 +114,13 @@ p{
 #s3-climbing {
     position: absolute;
     left: 20;
-    margin-top: -140vh;
+    margin-top: -130vh;
     z-index: 10;
     height: 20vh
 }
 
 .s3-dude {
-    margin-top: -114vh;
+    margin-top: -110vh;
     margin-left: 40vw;
     height: 20vh;
     z-index: 10;
@@ -130,9 +128,9 @@ p{
 }
 
 #s3-ladder {
-    height: 100vh;
+    height: 90vh;
     overflow-y: visible;
-    margin-top: -190vh;
+    margin-top: -180vh;
     margin-right: 2vw;
     z-index: 5;
 }
@@ -147,16 +145,16 @@ p{
 }
 
 #s2-dude {
-    margin-top: -113vh;
+    margin-top: -108vh;
     margin-left: 20vw;
     height: 20vh;
     z-index: 10;
 }
 
 #s2-ladder {
-    height: 95vh;
+    height: 90vh;
     overflow-y: visible;
-    margin-top: -180vh;
+    margin-top: -165vh;
     margin-left: 50vw;
     z-index: 5;
 }
@@ -190,4 +188,39 @@ p{
 
 .animate__fadeInLeft {
     visibility: visible;
+}
+
+.small-text {
+    visibility: visible;
+    margin-left: 50vw;
+}
+
+.small-text-bottom {
+    text-align: center;
+    position: relative;
+    z-index: 16;
+    color: white;
+}
+
+.btn {
+    background-color: var(--main-color);
+    font-size: 2vw;
+    color: white !important
+}
+
+.literacy  {
+    width: 10vw;
+    height: auto;
+}
+
+.s3 > .card-body {
+    background-color: #DD9191;
+}
+
+.s2 > .card-body {
+    background-color: #A95A5A;
+}
+
+.s1 > .card-body {
+    background-color: #C83434;
 }
