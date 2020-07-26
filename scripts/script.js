@@ -2,7 +2,7 @@ $("#scroll-button").click(function () {
     $('html,body').animate({
         scrollTop: $("#floor").offset().top
     },
-        10000);
+        5000);
 });
 
 $(document).ready(function () {
