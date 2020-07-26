@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (6e3e5246a0, 2020-05-07)"
+   sodipodi:docname="waving.svg"
+   version="1.1"
+   viewBox="0 0 221.28001 252.50282"
+   height="252.50282"
+   width="221.28001"
+   data-name="Layer 1"
+   id="aa03ddf9-f8f2-4819-a4ce-be9b0a220741">
+  <metadata
+     id="metadata5050">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>server down</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs5048" />
+  <sodipodi:namedview
+     inkscape:current-layer="aa03ddf9-f8f2-4819-a4ce-be9b0a220741"
+     inkscape:window-maximized="1"
+     inkscape:window-y="36"
+     inkscape:window-x="0"
+     inkscape:cy="216.55824"
+     inkscape:cx="393.64446"
+     inkscape:zoom="1.0228898"
+     fit-margin-bottom="0"
+     fit-margin-right="0"
+     fit-margin-left="0"
+     fit-margin-top="0"
+     showgrid="false"
+     id="namedview5046"
+     inkscape:window-height="975"
+     inkscape:window-width="1920"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <title
+     id="title4943">server down</title>
+  <circle
+     id="circle5023"
+     fill="#2f2e41"
+     r="79"
+     cy="139.50282"
+     cx="115.42491" />
+  <rect
+     id="rect5025"
+     fill="#2f2e41"
+     height="43"
+     width="24"
+     y="201.50282"
+     x="79.424911" />
+  <rect
+     id="rect5027"
+     fill="#2f2e41"
+     height="43"
+     width="24"
+     y="201.50282"
+     x="127.42491" />
+  <ellipse
+     id="ellipse5029"
+     fill="#2f2e41"
+     ry="7.5"
+     rx="20"
+     cy="245.00282"
+     cx="99.424911" />
+  <ellipse
+     id="ellipse5031"
+     fill="#2f2e41"
+     ry="7.5"
+     rx="20"
+     cy="244.00282"
+     cx="147.42491" />
+  <circle
+     id="circle5033"
+     fill="#ffffff"
+     r="27"
+     cy="119.50282"
+     cx="117.42491" />
+  <circle
+     id="circle5035"
+     fill="#3f3d56"
+     r="9"
+     cy="119.50282"
+     cx="117.42491" />
+  <path
+     id="path5037"
+     fill="#ff6366"
+     d="m 38.792248,66.035104 c -6.37889,-28.56758 14.01185,-57.4339197 45.544,-64.4747697 31.532152,-7.04085 62.265102,10.4099997 68.644002,38.9775997 6.3789,28.5676 -14.51861,39.10379 -46.05075,46.14464 -31.532142,7.04085 -61.758362,7.92011 -68.137252,-20.64747 z" />
+  <ellipse
+     id="ellipse5039"
+     fill="#2f2e41"
+     transform="rotate(-23.17116)"
+     ry="12.40027"
+     rx="39.5"
+     cy="175.93588"
+     cx="125.53974" />
+  <ellipse
+     id="ellipse5041"
+     fill="#2f2e41"
+     transform="rotate(-23.17116)"
+     ry="12.40027"
+     rx="39.5"
+     cy="166.42563"
+     cx="-31.376015" />
+  <path
+     id="path5043"
+     fill="#fff"
+     d="m 161.42492,162.50282 c 0,7.732 -19.90861,23 -42,23 -22.091392,0 -43.000002,-14.268 -43.000002,-22 0,-7.732 20.90861,-6 43.000002,-6 22.09139,0 42,-2.732 42,5 z" />
+</svg>
