@@ -130,7 +130,7 @@ p{
 #s3-ladder {
     height: 90vh;
     overflow-y: visible;
-    margin-top: -180vh;
+    margin-top: -185vh;
     margin-right: 2vw;
     z-index: 5;
 }
@@ -204,6 +204,12 @@ p{
 
 .btn {
     background-color: var(--main-color);
+    font-size: 2vw;
+    color: white !important
+}
+
+.btn:hover {
+    background-color: grey;
     font-size: 2vw;
     color: white !important
 }
